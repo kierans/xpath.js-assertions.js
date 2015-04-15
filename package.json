@@ -1,0 +1,21 @@
+{
+  "name": "xpath.js-assertions",
+  "version": "1.0.0",
+  "description": "Chai DSL to assist in making assertions on XML docs using xpath.js",
+  "author": {
+    "name": "Kieran Simpson",
+    "email": "kierans777@gmail.com"
+  },
+  "license": "Apache License 2.0",
+  "keywords": [
+    "xml",
+    "xpath"
+  ],
+  "main": "xpath.js-assertions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "chai": "^2.2.0"
+  }
+}
