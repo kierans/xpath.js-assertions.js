@@ -7,6 +7,11 @@
     "email": "kierans777@gmail.com"
   },
   "license": "Apache License 2.0",
+  "bugs": "https://bitbucket.org/kierans777/xpath.js-assertions.js/issues",
+  "repository": {
+    "type": "hg",
+    "url": "https://bitbucket.org/kierans777/xpath.js-assertions.js"
+  },
   "keywords": [
     "xml",
     "xpath"
