@@ -1,6 +1,6 @@
 {
   "name": "@kierans777/xpath.js-assertions",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Chai DSL to assist in making assertions on XML docs using xpath.js",
   "author": {
     "name": "Kieran Simpson",
